@@ -1,0 +1,6 @@
+hydra-core
+DrissionPage
+faker
+temp_mails
+beautifulsoup4
+requests
